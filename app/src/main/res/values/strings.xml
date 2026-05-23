@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">apfin</string>
+
+    <string name="label_name">Unesite ime</string>
+    <string name="label_surname">Unesite prezime</string>
+    <string name="label_oib">Unesite OIB</string>
+    <string name="label_phone">Unesite broj telefona</string>
+    <string name="label_email">Unesite email</string>
+    <string name="label_gender">Spol</string>
+    <string name="label_city">Grad</string>
+
+    <string name="gender_male">Musko</string>
+    <string name="gender_female">Zensko</string>
+
+    <string name="btn_save">Spremi podatke</string>
+    <string name="btn_yes">Da</string>
+    <string name="btn_no">Ne</string>
+
+    <string name="detail_question">Zelite li upisati jos jednog korisnika?</string>
+
+    <string name="toast_thanks">Hvala na koristenju aplikacije!</string>
+
+    <string name="label_value_format">%1$s: %2$s</string>
+
+    <string-array name="cities">
+        <item>Zagreb</item>
+        <item>Split</item>
+        <item>Rijeka</item>
+        <item>Osijek</item>
+        <item>Zadar</item>
+        <item>Pula</item>
+        <item>Slavonski Brod</item>
+        <item>Karlovac</item>
+        <item>Varazdin</item>
+        <item>Sibenik</item>
+    </string-array>
+</resources>
